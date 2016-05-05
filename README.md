@@ -15,4 +15,4 @@ __bold__
 `samra nisar`
 
 [x] samra
-[x] nisar
+[ ] nisar

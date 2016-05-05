@@ -9,3 +9,5 @@ __bold__
 
 * hello
 * world
+   * bullet
+   * bullet

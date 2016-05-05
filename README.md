@@ -7,5 +7,5 @@ __bold__
 @Samra
 >quote
 
-*hello
-*world
+* hello
+* world

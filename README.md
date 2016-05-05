@@ -1,2 +1,2 @@
 1# demogit is readme
-:heart: :cat: :dog: :star: :hand:
+:heart: :cat: :dog: :star: :hand: :happy:

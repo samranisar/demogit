@@ -14,5 +14,5 @@ __bold__
 
 `samra nisar`
 
-[x] samra
-[ ] nisar
+- [x] samra
+- [ ] nisar
